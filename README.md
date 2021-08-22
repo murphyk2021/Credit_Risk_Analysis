@@ -1,5 +1,5 @@
 # Credit Risk Analysis
-## Module 17: Introductio to Supervised Machine Learning
+## Module 17: Introduction to Supervised Machine Learning
 ---
 
 ### Overview
