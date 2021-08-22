@@ -61,6 +61,7 @@ This model decreased the size of the low risk loans such that the class samples 
 
 **High Risk:**  260
 
+![Classification Report](https://github.com/murphyk2021/Credit_Risk_Analysis/blob/711f7e030257672a186da5f13bfc3c5f9375a8e6/Images/Undersampling.JPG)
 
  - **Accuracy:** 51%
  - **Identifying High Risk Loans:**
@@ -82,6 +83,8 @@ This model oversamples the high risk data and undersamples the the low risk data
 **Low Risk:**  68,460
 
 **High Risk:**  68,460
+
+![Classification Report](https://github.com/murphyk2021/Credit_Risk_Analysis/blob/711f7e030257672a186da5f13bfc3c5f9375a8e6/Images/Combo_Sampling.JPG)
 
  - **Accuracy:** 64%
  - **Identifying High Risk Loans:**
